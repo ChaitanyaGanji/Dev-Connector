@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://chaitu193:chaitu193@devconnector.d4yol.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "secretKey": "MyUserKey",
+  "githubClientId": "21d9d8b54018760c6a29",
+  "githubSecret": "bd6c5656563674f345347e8c20a394c971e82868"
+}
